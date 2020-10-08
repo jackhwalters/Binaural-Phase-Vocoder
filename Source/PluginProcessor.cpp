@@ -405,7 +405,7 @@ void DafxBinauralPhaseVocoderAudioProcessor::processBlock (AudioBuffer<float>& b
         leftEarDelayPosition_ = lrp;
         rightEarDelayPosition_ = rrp;
         
-        BinaryData::IR_wavSize
+        BinaryData::IR_wavSize;
     
         
         //Convolution
