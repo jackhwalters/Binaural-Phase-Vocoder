@@ -1,4 +1,5 @@
 .DS_Store
-Files/
+Files/Audio/
 Builds/
-JuceLibraryCode/
+JuceLibraryCode
+DAFXDemo.mp4
